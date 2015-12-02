@@ -1,0 +1,1 @@
+<?php echo "Welcome to GeekGuin MVC powered page!!"; ?>
